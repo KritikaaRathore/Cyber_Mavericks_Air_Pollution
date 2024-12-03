@@ -1,0 +1,7 @@
+Country,Pollutant,Death_Rate_per_100k,Year
+India,PM2.5,112,2024
+China,PM10,98,2024
+USA,Ozone,28,2024
+Germany,PM2.5,35,2024
+Brazil,PM10,67,2024
+Australia,Ozone,12,2024
