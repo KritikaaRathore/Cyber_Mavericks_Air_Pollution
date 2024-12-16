@@ -5,14 +5,14 @@ Analyze Air Pollution Impact on Health Metrics and visualize correlations
 **Group Members**
 
 Kritika Rathore  - KU2407U318
-<br/>Maddukuri Arithaa - KU2407U258
+<br/>Maddukuri Asrithaa - KU2407U258
 <br/>Pratham Namdev - KU2407U355
 <br/>Khushi Shah - KU2407U316
 <br/>Unnati Takkur - KU2407U385
 
 **Objective Of The Project**
 
-Analyze Air Pollution's impact on Health Metrics and visualize correlations
+Analyze Air Pollution's impact on Health Metrics and visualize correlations .The project aims to analyze air pollution's impact on health metrics and visualize correlations through a device that monitors and predicts air quality using sensor data and Python. 
 
 **Tools And Libraries Used**
 
@@ -34,7 +34,7 @@ Analyze Air Pollution's impact on Health Metrics and visualize correlations
 
 1. Define the Scope of the Project
 
-Purpose: Predict air quality index (AQI) or pollutant levels (e.g., PM2.5, CO, NO2).
+Purpose: Predict air quality index (AQI) or pollutant levels (e.g., PM2.5, PM10, CO, NO2).
 
 Target Audience: Industrial use, public health, or personal use.
 
@@ -46,11 +46,8 @@ Key Metrics: Choose pollutants and environmental parameters to monitor.
 
 2. Hardware Setup
 
-Required Components:
-
-Microcontroller/Single-Board Computer: Arduino, Raspberry Pi, or ESP32.
-
-Sensors: Air quality sensors like MQ135 (general pollutants), PMS5003 (PM2.5/PM10), or DHT22 for temperature and humidity.
+Required Components: Microcontrollers,
+Microcontrollers in air pollution studies are small, programmable electronic devices that serve as the "brains" of monitoring and data-collection systems. They are commonly used in air quality sensors and environmental monitoring tools because of their versatility, low power consumption, and ability to process and store data.
 
 Power Source: Battery or USB power.
 
@@ -71,8 +68,6 @@ Ensure proper wiring and connections for power and communication.
 3. Software Setup
 
 Programming Environment:
-
-Use Arduino IDE, Python, or other tools depending on the microcontroller.
 
 Install necessary libraries for sensor communication.
 
@@ -177,7 +172,7 @@ Food Security: Pollution damages crops, reducing food supply.
 
 Water Contamination: Pollutants in the air also affect water sources.
 
-Climate Change: Intensified by air pollution, leading to extreme weather conditions that disrupt lives.
+Climate Change: effect by air pollution, leading to extreme weather conditions that disrupt lives.
 
 
 Addressing air pollution is critical for improving health, livelihoods, and overall quality of life.
@@ -208,8 +203,7 @@ Features:
 
 Real-time data collection and processing using Python.
 
-Air quality prediction using algorithms or machine learning (e.g., Scikit-learn).
-
+Air quality prediction using algorithms or machine learning 
 Data visualization (graphs, charts, or simple GUI with Matplotlib/Tkinter).
 
 
